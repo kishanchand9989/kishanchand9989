@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Kishan-Chand](https://codebasics.io/portfolio/Kishan-Chand)
+- 👨‍💻 My portfolio [click here](https://codebasics.io/portfolio/Kishan-Chand)
 
 - 📫 How to reach me **kishanchand9989@gmail.com**
 
